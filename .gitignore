@@ -14,3 +14,7 @@ gen
 .metadata/
 .metadata
 *.project
+
+# idea
+.idea/
+target/
