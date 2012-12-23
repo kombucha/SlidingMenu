@@ -9,10 +9,10 @@
         android:targetSdkVersion="17" />
 
     <application>
-        <activity android:name=".SlidingMenuActivity" />
-        <activity android:name=".SlidingFragmentActivity" />
-        <activity android:name=".SlidingListActivity" />
-        <activity android:name=".SlidingPreferenceActivity" />
+        <activity android:name=".app.SlidingActivity" />
+        <activity android:name=".app.SlidingFragmentActivity" />
+        <activity android:name=".app.SlidingListActivity" />
+        <activity android:name=".app.SlidingPreferenceActivity" />
     </application>
 
 </manifest>
